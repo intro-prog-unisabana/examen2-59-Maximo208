@@ -46,7 +46,8 @@ def average_temp(monitor):
     """
     Retorna la temperatura promedio de todas las lecturas.
     """
-    if count = 0
+    if count(monitor) == 0
+    
     # TODO: Implementar
     pass
 
